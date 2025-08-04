@@ -1,2 +1,2 @@
-# GIT-Practice-task
+# My Name Is Shlokk
 Practice
